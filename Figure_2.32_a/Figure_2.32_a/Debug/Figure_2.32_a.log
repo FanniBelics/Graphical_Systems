@@ -1,0 +1,8 @@
+﻿  figure_a.cpp
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Figure_2.32_a\figure_a.cpp(10,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Figure_2.32_a\figure_a.cpp(10,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Figure_2.32_a\figure_a.cpp(10,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Figure_2.32_a\figure_a.cpp(43,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Figure_2.32_a\figure_a.cpp(43,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Figure_2.32_a\figure_a.cpp(43,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Figure_2.32_a.vcxproj -> C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Figure_2.32_a\Debug\Figure_2.32_a.exe
