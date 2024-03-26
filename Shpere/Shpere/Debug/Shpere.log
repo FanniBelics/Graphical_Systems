@@ -1,0 +1,20 @@
+﻿  sphere.cpp
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(62,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(61,5): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(60,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(68,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(67,7): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(66,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(81,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(80,8): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(79,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(84,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(83,8): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(82,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(94,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(93,6): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(92,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(101,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(100,7): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\sphere.cpp(99,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Shpere.vcxproj -> C:\Users\Fanni\Desktop\egyetem\Grafikus_rendszerek\Code\Shpere\Debug\Shpere.exe
